@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog Title</title>
+    <description>Blog Title</description>
+    <link>http://sample.com</link>
+    <pubDate>2013-09-02 17:22:08 -0700</pubDate>
+    <item>
+      <title>second post brah</title>
+      <link>http://sample.com/hello-world/second-post-brah</link>
+      <pubDate>2013-09-01</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;and &lt;/li&gt;
+&lt;li&gt;we &lt;/li&gt;
+&lt;li&gt;gonna &lt;/li&gt;
+&lt;li&gt;let &lt;/li&gt;
+&lt;li&gt;it&lt;/li&gt;
+&lt;li&gt;burn &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;^_^&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>My first post =)</title>
+      <link>http://sample.com/hello-world/my-first-post</link>
+      <pubDate>2013-08-31</pubDate>
+      <description>&lt;h1 id="toc_0"&gt;Oh yeahhhhhh!!&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Derp derp&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+  </channel>
+</rss>
