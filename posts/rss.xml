@@ -4,10 +4,10 @@
     <title>Blog Title</title>
     <description>Blog Title</description>
     <link>http://sample.com</link>
-    <pubDate>2013-09-02 17:22:08 -0700</pubDate>
+    <pubDate>2013-09-02 17:24:10 -0700</pubDate>
     <item>
       <title>second post brah</title>
-      <link>http://sample.com/hello-world/second-post-brah</link>
+      <link>http://sample.com/second-post-brah</link>
       <pubDate>2013-09-01</pubDate>
       <description>&lt;ul&gt;
 &lt;li&gt;and &lt;/li&gt;
@@ -23,7 +23,7 @@
     </item>
     <item>
       <title>My first post =)</title>
-      <link>http://sample.com/hello-world/my-first-post</link>
+      <link>http://sample.com/my-first-post</link>
       <pubDate>2013-08-31</pubDate>
       <description>&lt;h1 id="toc_0"&gt;Oh yeahhhhhh!!&lt;/h1&gt;
 
